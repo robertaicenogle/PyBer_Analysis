@@ -6,6 +6,9 @@ In this project, I used Jupyter Notebook and Pandas to inspect data, merge data 
 
 ## Results
 
+
+![](Resources/Election_Code_1.PNG)
+
 describe the differences in ride-sharing data among the different city types.
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
