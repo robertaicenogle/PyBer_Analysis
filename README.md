@@ -5,14 +5,18 @@ In this project, I used Jupyter Notebook and Pandas to inspect data, merge data 
 
 
 ## Results
+The results of the analysis are as follows.
+
+### Differences Based on City Type
+As you can see in the chart below, the total number of rides - as well as and drivers - are in urban areas, followed by suburban and rural areas. The average fare, however, is highest in rural areas, followed by suburban and urban areas. Overall, total fares are highest in urban areas, followed by suburban and rural areas.
+
+![](Resources/DataFrame.PNG)
 
 
-![](Resources/Election_Code_1.PNG)
+In the line graph below, you can see differences over time in fares among urban (yellow), suburban (red) and rural (blue) areas. Urban areas have consistently higher total fares, followed by suburban and rural areas. This is relatively consistent over time.
 
-describe the differences in ride-sharing data among the different city types.
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+![](Resources/LineChart.PNG)
 
 ## Summary
 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+Based on the results, here are three business recommendations for addressing any disparities among the city types. The first recommendation is to continue promoting urban ride-sharing. This is the bread and butter of the organization, in terms of total fares. The second recommendation is to increase promotion of drivers in rural areas. These areas tend to provide the highest average fair to drivers, but has the least number of drivers available. There is an opportunity in these areas. The third recommendation is based on the fact that ride-sharing is higher in the spring than in the winter - focus on warmer weather times - and reduce efforts in the winter times.
