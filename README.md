@@ -1,5 +1,9 @@
 # PyBer_Analysis
 
+## Resources
+- Data Source:
+- Software:
+
 ## Overview of the analysis
 In this project, I used Jupyter Notebook and Pandas to inspect data, merge data sets, perform calculations and create new dataframes. The project has two main deliverables. The first is a ride-sharing summary dataframe by city type. The second deliverable is a multiple-line chart of total fares for each city type. The purpose of this project is to present a summary of complex findings, and to visualize the data provided, to help PyBer make difficult business decisions.
 
